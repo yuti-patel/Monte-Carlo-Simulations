@@ -1,0 +1,11 @@
+#Requirements
+
+Following are our dependencies that need to be installed bofrehand: 
+pandas
+numpy
+datetime
+yfinance
+scipy
+matplotlib
+seaborn
+argparse
